@@ -1,0 +1,28 @@
+{
+    "employee": {
+        "name": "John Doe",
+        "ssn": "XXX-XX-1234",
+        "address": "123 Main St, Anytown, USA"
+    },
+    "employer": {
+        "name": "ABC Corp",
+        "address": "456 Business Ave, City, USA"
+    },
+    "tax_year": "2023",
+    "earnings": {
+        "wages": 45146.22,
+        "social_security_wages": 45146.22,
+        "medicare_wages": 45146.22
+    },
+    "deductions": {
+        "federal_tax": 3109.56,
+        "social_security_tax": 2799.07,
+        "medicare_tax": 655.12,
+        "state_tax": 1500.00
+    },
+    "net_pay_estimate": 35082.47,
+    "ytd_totals": {
+        "total_wages": 45146.22,
+        "total_withheld": 10063.75
+    }
+}
