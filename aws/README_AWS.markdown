@@ -21,7 +21,7 @@ graph TD
 ## Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/payroll-extraction-prototype.git
+   git clone https://github.com/yourusername/ADP-Payrol-Challenge-Repo/aws.git
    cd payroll-extraction-prototype
    ```
 
