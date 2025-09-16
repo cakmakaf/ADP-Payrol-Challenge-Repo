@@ -32,13 +32,14 @@ payroll-extraction-prototype-azure/
 ```
 
 ## Setup Instructions
-Follow these steps to set up and run the prototype on your local machine (e.g., `/Users/macahmet/Desktop/ADP-Payrol-Challenge-Azure/`).
+
+Follow these steps to set up and run the prototype on your local machine (e.g., `/../Desktop/ADP-Payrol-Challenge/azure`).
 
 ### 1. Create the Repository
 - Create a directory and initialize a Git repository (optional for GitHub):
   ```bash
-  mkdir /Users/macahmet/Desktop/ADP-Payrol-Challenge-Azure
-  cd /Users/macahmet/Desktop/ADP-Payrol-Challenge-Azure
+  mkdir /.../Desktop/ADP-Payrol-Challenge-Azure
+  cd /.../Desktop/ADP-Payrol-Challenge-Azure
   git init
   ```
 
@@ -396,6 +397,6 @@ mkdir tests
   ```bash
   git add .
   git commit -m "Initial Azure-based prototype"
-  git remote add origin https://github.com/yourusername/payroll-extraction-prototype-azure.git
+  git remote add origin https://github.com/yourusername/ADP-Payrol-Challenge/azure.git
   git push -u origin main
   ```
